@@ -1,3 +1,3 @@
 # TabGNN
 
-The code will be released soon
+This is the code for CIKM2021 submission.
